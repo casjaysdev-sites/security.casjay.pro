@@ -1,2 +1,2 @@
-# security.casjay.net
+# security.casjay.pro
 Casjays Dev Security Blog
